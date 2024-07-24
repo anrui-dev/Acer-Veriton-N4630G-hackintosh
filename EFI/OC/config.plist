@@ -1162,23 +1162,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>D25511609GUG36DFB</string>
+			<string>C02435902GUG0MC1F</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>aNvKU25c</data>
+			<data>EBwMOzlx</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac14,4</string>
+			<string>Macmini7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>D25PFEZFFY0T</string>
+			<string>C02N9SZNG1J0</string>
 			<key>SystemUUID</key>
-			<string>43A5B093-82DE-4770-B27C-8DFA524C7F4F</string>
+			<string>8BC12126-806E-47B1-A61A-3065656A6BF9</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
